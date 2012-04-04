@@ -1,6 +1,6 @@
 #JCC Newsticker. a lightweight jquery newsticker plugin
 
-#Usage
+##Usage
 * Add HTML List Element
 <pre>
 	`<ul class="newsticker" id="newsticker">`
