@@ -3,7 +3,7 @@
  *  Description: lightweight Newsticker
  *  Author: Martin von Loh 
  *  Version: 1.2
- *  License: GPLv3
+ *  Dual MIT/BSD license
  */
 ;(function ( $, window, document, undefined ) {
 
