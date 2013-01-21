@@ -11,7 +11,7 @@
 * Add jQuery
 <pre>
 	$(document).ready(function(){
-		$('.newsticker').ticker({
+		$('.newsticker').jccticker({
 			timeout: 400,
 			effect: 'fade'|'slide'
 		});
